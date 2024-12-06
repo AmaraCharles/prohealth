@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify email</title>
+    <link href="./Capitalclime.com/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="./Capitalclime.com/img/favicon.png" rel="apple-touch-icon" />
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+
+    <style>
+        body{
+            font-size: larger;
+        }
+        .container{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items:center;
+            /* height: 100vh; */
+            margin: 0 auto;
+        
+        }
+        .container p{
+            color: rgb(34, 168, 85);
+        
+        }
+
+
+        a{
+            text-decoration: none;
+        }
+            </style>
+            <div class="container">
+                <span  id="verification"><i>Verification in progress. Please wait...</i></span><br/>
+               <!-- <span > Click  <a href="login.html">here</a> to login now</span> -->
+            </div>
+            
+   <script>     
+   function redirect(){  location.href='./login.html'
+}
+      function verifying(){
+       var verification=  $('#verification').html
+    var gotten='Your Account has been verified!'
+      $('#verification').html(gotten)
+    setTimeout(redirect,2000)
+
+    }
+ $(document).ready( function () {
+
+   
+setTimeout(verifying,5000)
+
+  })
+   </script> 
+<!-- Start of LiveChat (www.livechat.com) code -->
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '8754d5c1a77a300c334790c879a8ed1df0175ed4';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+<!-- End of LiveChat code -->
+</html>

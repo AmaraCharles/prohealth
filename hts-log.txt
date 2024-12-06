@@ -1,0 +1,350 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Nov 2024 19:50:08 at https://proultimatewealth.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+proultimatewealth
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bnbcopytrading.com -O1 "C:\webby\newone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mproultimatewealthsitive information,proultimatewealth
+proultimatewealthproultimatewealth
+	such as username/password authentication for websiproultimatewealthn this projectproultimatewealth
+proultimatewealthproultimatewealth
+	do not share these files/folders if you want theseproultimatewealtho remain privateproultimatewealth
+proultimatewealthproultimatewealth
+proultimatewealthproultimatewealth
+proultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link httpproultimatewealthding.com/img/favicons/approultimatewealth.png (from https://bnbcopytrading.com/)
+proultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link httpproultimatewealthding.com/img/favicons/faviconproultimatewealthom https://bnbcopytrading.com/)
+proultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link httpproultimatewealthding.com/img/faviconsproultimatewealth.png (from https://bnbcopytrading.com/)
+proultimatewealthproultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytradingproultimatewealthons/favicon.ico (from https://bnbcopytrading.coproultimatewealth
+proultimatewealthproultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/favicons/safari-pinned-tab.svg (from https://bnbcopytrading.com/)proultimatewealth
+proultimatewealthproultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/favicons/site.webmanifest (from https://bnbcopytrading.com/)proultimatewealth
+proultimatewealthproultimatewealth
+19:50:36	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/favicons/browserconfig.xml (from https://bnbcopytrading.com/)proultimatewealth
+proultimatewealthproultimatewealth
+19:52:13	Warning: 	Moved Permanently for https://bnproultimatewealthom/en/faq/proultimatewealth
+proultimatewealthproultimatewealth
+19:52:13	Warning: 	File has moved from https://bnbcproultimatewealth/en/faq/ to https://bnbcopytradingproultimatewealth
+proultimatewealthproultimatewealth
+19:52:13	Warning: 	Moved Permanently for https://bnproultimatewealthom/en/about-us/proultimatewealth
+proultimatewealthproultimatewealth
+19:52:13	Warning: 	File has moved from https://bnbcproultimatewealth/en/about-us/ to https://bnbcopytrading.cproultimatewealth
+proultimatewealthproultimatewealth
+19:52:18	Warning: 	Moved Permanently for https://bnproultimatewealthom/faq/proultimatewealth
+proultimatewealthproultimatewealth
+19:52:18	Warning: 	File has moved from https://bnbcproultimatewealth/faq/ to https://bnbcopytrading.com/faqproultimatewealth
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/images/spritemap.svg (from https://bnbproultimatewealthm/)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Error when decompressing" (-1) atproultimatewealthbnbcopytrading.com/“https://www.smartsupp.com” (froproultimatewealthopytrading.com/)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/NunitoSansRegular/Nuniproultimatewealtheot (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/NunitoSansRegular/Nunproultimatewealth.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/NunitoSansRegular/Nunproultimatewealth.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/NunitoSansReproultimatewealthnsRegular.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/OpenSansSemiBoproultimatewealthmiBold.eot (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/OpenSansSemiBoproultimatewealthmiBold.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/OpenSansSemiproultimatewealthSemiBold.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/themes/cabinet/fonts/OpenSansSemiBoproultimatewealthmiBold.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/svg/icon-left.svg (from https://proultimatewealth.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/png/ic-eye.png (from https://bnbcoproultimatewealthauth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/png/ic-eye@2x.png (from https://proultimatewealth.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/png/icon-facebook.png (from https://proultimatewealth.com/auth/blank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/png/icon-google.png (from https://bnbcopytraproultimatewealthblank.min.css)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Thin.ttf (from https://bproultimatewealthcom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Thinitalic.ttf (from htproultimatewealthrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Robotolight.ttf (from httpsproultimatewealthing.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Lightitalic.ttf (from httpsproultimatewealthing.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Italic.ttf (from https://proultimatewealth.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Mediumitalic.ttf (from proultimatewealthytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Bolditalic.ttf (from htproultimatewealthrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/fonts/Roboto-Blackitalic.ttf (froproultimatewealthopytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/arrow-green-right.svg (froproultimatewealthopytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/youtube-white.svg (from httproultimatewealthading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/facebook-white.svg (from hproultimatewealthtrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/instagram-white.svg (froproultimatewealthopytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/twitter-white.svg (from https:proultimatewealthng.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/arrow-right-white.svg (fromproultimatewealthpytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/arrow-contact.svg (from htproultimatewealthrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/online-learning.svg (from https://bproultimatewealthcom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/mind.svg (from https://bnbcopproultimatewealthss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/bubble-speak.svg (from httpsproultimatewealthing.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/skrill.svg (from https://bnbcproultimatewealth/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/neteller.svg (from https://bnbproultimatewealthm/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/yandex.svg (from https://bnbcoproultimatewealthcss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/webmoney.svg (from https://bnproultimatewealthom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/qiwi.svg (from https://bnbcproultimatewealth/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/rupay.svg (from https://bnbcproultimatewealth/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/airtel.svg (from https://bnbproultimatewealthm/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/olamoney.svg (from https://bnproultimatewealthom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/upi.svg (from https://bnbcopytradproultimatewealthin.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/mobikwik.svg (from httpsproultimatewealthing.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/paytm.svg (from https://bnbcopyproultimatewealths/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/bank_indian.svg (from https://bnbproultimatewealthm/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/bni.svg (from https:/proultimatewealthg.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/doku.svg (from https://bnbproultimatewealthm/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/mandiri.svg (from https://bnproultimatewealthom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/danamon.svg (from https://bnbcopytproultimatewealth/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/bank_indonesian.svg (from https:/proultimatewealthg.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/pix.svg (from https://bnproultimatewealthom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/paylivre.svg (from httpsproultimatewealthing.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/itau.svg (from https://bnproultimatewealthom/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/maybank.svg (from https://bnbcopproultimatewealthss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/rhb_bank.svg (from https://bnbcopytrproultimatewealthmain.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/cimb.svg (from https://bnbcopproultimatewealthss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/hong_leon.svgproultimatewealth/bnbcopytrading.com/css/main.min.css?6)
+proultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/public_bank.svg (from https://bnbcopytrading.com/csproultimatewealth?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytradingproultimatewealth/bank_malasia.svg (from htproultimatewealthrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (40proultimatewealthps://bnbcopytrading.com/img/icons/promptpay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+proultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/bank_thailand.svgproultimatewealth/bnbcopytrading.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/grabpay.svg (from httpproultimatewealthding.com/css/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/gcash.svg (from https:/proultimatewealthg.com/css/main.min.css?6)
+proultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/paymaya.svg (from https://bnbcoproultimatewealthcss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://proultimatewealth.com/img/icons/coins_ph.svg (from https://bnbcopproultimatewealthss/main.min.css?6)
+proultimatewealthproultimatewealth
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/momo.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_vietnam.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/yomoney.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/fkwallet.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/piastrix.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/analytics.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/diagram.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/graph.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/award.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/rocket.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/businessman.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/youtube.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/instagram.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/twitter.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-white-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/english.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/russia.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/portugal.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/spain.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/italian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/poland.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/france.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/deutsch.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/indonesian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/ukraine.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/china.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/turkey.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/india.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/iran.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/thailand.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/saudi.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/vietnam.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/malay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/philippines.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/brazil.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/japan.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/bangladesh.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/article.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/video.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/google-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/vk-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook-login.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/google.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/vk.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/error.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/tw-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/tg-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/inst-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/fb-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-left.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-right.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-green-up.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-red-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/quotex_logo.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/quotex_logo-white-mobile.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/alert.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/quote.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/to-top.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/plainCon.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/beforecontact.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-modern-mobile.png (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-problem-quotes.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-innovation-mobile.png (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/main/appendix-bg.png (from https://bnbcopytrading.com/css/main.min.css?6)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/css/img/Union.png (from https://bnbcopytrading.com/css/custom.css)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/hero.svg (from https://bnbcopytrading.com/about)
+
+19:52:18	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://bnbcopytrading.com/login)
+
+19:52:22	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://bnbcopytrading.com/login)
+
+19:52:22	Error: 	"Error when decompressing" (-1) at link https://bnbcopytrading.com/en/faq (from https://bnbcopytrading.com/en/faq/)
+
+19:52:22	Error: 	"Error when decompressing" (-1) at link https://bnbcopytrading.com/en/about-us (from https://bnbcopytrading.com/en/about-us/)
+
+19:52:22	Warning: 	Link https://bnbcopytrading.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+19:52:22	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/auth/aos.css (from https://bnbcopytrading.com/auth/app.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/auth/png/crypto.png (from https://bnbcopytrading.com/auth/app.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/bg-sale-1.png (from https://bnbcopytrading.com/auth/app.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/bg-couter.png (from https://bnbcopytrading.com/auth/app.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/arrow-down.png (from https://bnbcopytrading.com/auth/app.css)
+
+19:52:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/eot/icomoon3f14.eot?422y2y (from https://bnbcopytrading.com/auth/style.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/ttf/icomoon3f14.ttf?422y2y (from https://bnbcopytrading.com/auth/style.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/woff/icomoon3f14.woff?422y2y (from https://bnbcopytrading.com/auth/style.css)
+
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/svg/icomoon3f14.svg?422y2y (from https://bnbcopytrading.com/auth/style.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 251 links scanned, 90 files written (5355035 bytes overall) [3585047 bytes received at 26168 bytes/sec], 4289632 bytes transferred using HTTP compression in 214 files, ratio 29%, 15.5 requests per connection
+
+(155 errors, 9 warnings, 0 messages)
+
