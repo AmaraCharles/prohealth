@@ -466,10 +466,10 @@
                         <div class="login-header">
                             <div class="brand block-text">
                                 <a href="index.html" class="brand__link ">
-                                    <img id="site-logo" src="./logoo.png"
+                                    <!-- <img id="site-logo" src="./logoo.png"
                                         alt="" height="" width=""
                                       
-                                        data-height="30" />
+                                        data-height="30" /> -->
                                 </a>
                                 <div class="lock">
 
@@ -762,6 +762,13 @@
                                             placeholder="Enter your email address or username" /> <label
                                             for="email">Email Address <span>*</span></label>
                                                                                 </div>
+                                                                            </div>
+                                                                            <div class="form-group form-group_with-label  email-container ">
+                                                                                <input type="text" id="mobile" name="email"
+                                                                                    class="form-control form-control-lg" value="" required="1"
+                                                                                    placeholder="Mobile Number" /> <label
+                                                                                    for="email">Mobile<span>*</span></label>
+                                                                                                                        </div>
                                     <div class="form-group form-group_with-label  password-container">
                                         <input type="password" id="password" value=""
                                             class="form-control form-control-lg" required="1"
@@ -794,13 +801,14 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="submit-btn-wrap">
+                                        <button class="waves btn btn-green-light btn-block" style="background: #35b972" type="submit" id="registerBtn">
+                                            Sign Up </button>
+                                    </div>
+    
                                 </div>
                                 <div class="step2 js-step2"></div>
-                                <div class="submit-btn-wrap">
-                                    <button class="waves btn btn-green-light btn-block" style="background: #35b972" type="submit" id="registerBtn">
-                                        Sign Up </button>
-                                </div>
-
+                               
                             </form>
                             <br><br>
                         </div>
@@ -911,6 +919,7 @@
                topFunction();
                const firstName = $('#firstname').val();
                const lastName = $('#lastname').val();
+               const mobile = $('#mobile').val();
                const emaill = $('#email').val();
                const email=emaill.toLowerCase()
                const password = $('#password').val();
@@ -922,8 +931,8 @@
              
                localStorage.setItem("firstName",firstName)
                
-               console.log(email,password,firstName,lastName,country,referralCode);
-               registerUser({ email, password, firstName, lastName, country,referralCode });
+               console.log(email,password,firstName,lastName,country,referralCode,mobile);
+               registerUser({ email, password, firstName, lastName, country,referralCode,mobile });
            });
   
          topFunction();
