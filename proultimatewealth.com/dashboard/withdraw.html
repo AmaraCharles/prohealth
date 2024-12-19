@@ -982,7 +982,7 @@ select.form-control {
     // Prevent default form submission
     event.preventDefault();
 
-    Swal.fire({
+    swal({
         title: 'Please wait...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -1029,7 +1029,7 @@ function depositController(url) {
     // Prevent default form submission
     event.preventDefault();
 
-    Swal.fire({
+    swal({
         title: 'Please wait...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -1064,7 +1064,7 @@ function depositController(url) {
         const usercur = data.usercur;
 
         if (data.status_code === 200) {
-            Swal.fire({
+            swal({
                 html: `<div class="col-md-12" style="padding: 10px!important"><div class="my-4"><div class="popup-content"><p class="">Your deposit order of <strong class="text-primary fw-bold" style="color: #3a64d1!important;"> ${message} ${usercur}</strong> has been placed.</p> <br>
                 <p>Please send <strong class="text-primary fw-bold" style="color: #3a64d1!important;"> ${finalamo} ${curname}</strong> to the address below. The amount will appear in your account only after transaction approved.</p><div class="gaps-1x"></div>
                     <center><div class="pay-wallet-address pay-wallet-eth">
@@ -1136,7 +1136,7 @@ function depositController(url) {
                 if (result.isConfirmed) {
                     location.reload();
                 } else {
-                    Swal.fire({
+                    swal({
                         title: 'Are you sure?',
                         text: 'This will cancel the transaction!',
                         icon: 'warning',
@@ -1168,7 +1168,7 @@ function depositController(url) {
                             })
                             .then(data => {
                                 if (data.status_code === 200) {
-                                    Swal.fire({
+                                    swal({
                                         icon: 'success',
                                         text: 'Transaction Cancelled Successfully!',
                                         confirmButtonText: 'OK',
@@ -1181,7 +1181,7 @@ function depositController(url) {
                                         }
                                     });
                                 } else {
-                                    Swal.fire({
+                                    swal({
                                         icon: 'error',
                                         text: 'Transaction Cancellation failed!',
                                         confirmButtonText: 'OK',
@@ -1193,7 +1193,7 @@ function depositController(url) {
                             })
                             .catch(error => {
                                 // Handle error response
-                                Swal.fire({
+                                swal({
                                     icon: 'error',
                                     text: 'Error Calling Api, Retry!',
                                     confirmButtonText: 'OK',
@@ -1207,7 +1207,7 @@ function depositController(url) {
                 }
             });
         } else {
-            Swal.fire({
+            swal({
                 icon: 'error',
                 title: 'Error',
                 text: message,
@@ -1231,7 +1231,7 @@ function depositController(url) {
             errorMessage = error.message;
         }
 
-        Swal.fire({
+        swal({
             icon: 'error',
             title: 'Error',
             text: errorMessage,
@@ -1265,7 +1265,7 @@ function depositController(url) {
 
 
 function showCustomModal(message, withId) {
-    Swal.fire({
+    swal({
         html: `
             <div class="col-md-12" style="padding: 10px!important">
                 <div class="my-4">
@@ -1331,7 +1331,7 @@ function showCustomModal(message, withId) {
                     })
                     .then(data => {
                         if (data.status_code == 200) {
-                            Swal.fire({
+                            swal({
                                 icon: 'success',
                                 text: 'Withdraw successful, kindly wait for approval!',
                                 confirmButtonText: 'OK',
@@ -1366,7 +1366,7 @@ function showCustomModal(message, withId) {
 
 
 function showErrorModal(errorMessage) {
-    Swal.fire({
+    swal({
         icon: 'error',
         title: 'Error',
         text: errorMessage,
@@ -1379,7 +1379,7 @@ function showErrorModal(errorMessage) {
 }
 
 function deleteController(deleteUrl) {
-    Swal.fire({
+    swal({
         title: 'Please wait...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -1405,7 +1405,7 @@ function deleteController(deleteUrl) {
             
             
             
-            Swal.fire({
+            swal({
                 icon: 'success',
                 title: 'Success',
                 text: 'Avatar Deleted Successfully!',
@@ -1423,7 +1423,7 @@ function deleteController(deleteUrl) {
             
         } else {
            
-            Swal.fire({
+            swal({
                 icon: 'error',
                 title: 'Error',
                 text: 'Error Fetching API',
@@ -1434,7 +1434,7 @@ function deleteController(deleteUrl) {
     })
     .catch(error => {
         console.error('Error:', error);
-        Swal.fire({
+        swal({
             icon: 'error',
             title: 'Error',
             text: 'Failed to delete Avatar',
@@ -1448,7 +1448,7 @@ function updateProfileController(url) {
     // Prevent default form submission
     event.preventDefault();
 
-    Swal.fire({
+    swal({
         title: 'Updating...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -1483,7 +1483,7 @@ function updateProfileController(url) {
         const amountText = message ? `${message}` : '';
 
         if (data.status_code === 200) {
-            Swal.fire({
+            swal({
                 text: 'Profile Updated Successfully!',
                 confirmButtonText: 'Ok',
                 confirmButtonColor: '#3a64d1',
@@ -1499,7 +1499,7 @@ function updateProfileController(url) {
                       });
                                 
                             } else {
-                                Swal.fire({
+                                swal({
                                     icon: 'error',
                                     title: 'Error',
                                     text: message,
@@ -1520,7 +1520,7 @@ function updateProfileController(url) {
                             console.error('Error:', error);
                     
                          
-                            Swal.fire({
+                            swal({
                                 icon: 'error',
                                 title: 'Error',
                                 text: 'An unexpected error occurred. Please try again.',
@@ -1544,7 +1544,7 @@ function updatePasswordController(url) {
     // Prevent default form submission
     event.preventDefault();
 
-    Swal.fire({
+    swal({
         title: 'Loading...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -1578,7 +1578,7 @@ function updatePasswordController(url) {
         const amountText = message ? `${message}` : '';
 
         if (data.status_code === 200) {
-            Swal.fire({
+            swal({
                 text: 'Password Updated Successfully!',
                 confirmButtonColor: '#3a64d1',
                 confirmButtonText: 'Ok',
@@ -1594,7 +1594,7 @@ function updatePasswordController(url) {
                       });
                                 
                             } else {
-                                Swal.fire({
+                                swal({
                                     icon: 'error',
                                     title: 'Error',
                                     text: message,
@@ -1615,7 +1615,7 @@ function updatePasswordController(url) {
                             console.error('Error:', error);
                     
                          
-                            Swal.fire({
+                            swal({
                                 icon: 'error',
                                 title: 'Error',
                                 text: 'An unexpected error occurred. Please try again.',
@@ -2660,7 +2660,7 @@ window.smartsupp||(function(d) {
     const formData = new FormData();
     formData.append('avatar', inputElement.files[0]);
 
-    Swal.fire({
+    swal({
         title: 'Uploading Avatar...',
         imageUrl: 'https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif',
         imageAlt: 'Loader',
@@ -2680,7 +2680,7 @@ window.smartsupp||(function(d) {
     .then(response => response.json())
     .then(data => {
         if (data.status_code === 200) {
-            Swal.fire({
+            swal({
                 icon: 'success',
                 title: 'Success',
                 text: 'Avatar Uploaded Successfully!',
@@ -2693,7 +2693,7 @@ window.smartsupp||(function(d) {
                 }
             });
         } else {
-            Swal.fire({
+            swal({
                 icon: 'error',
                 title: 'Error',
                 text: data.message || 'Error Fetching API',
@@ -2704,7 +2704,7 @@ window.smartsupp||(function(d) {
     })
     .catch(error => {
         console.error('Error:', error);
-        Swal.fire({
+        swal({
             icon: 'error',
             title: 'Error',
             text: 'Failed to upload Avatar',
@@ -3020,6 +3020,80 @@ ul {
 </div>
 </div>
 
+<div class="exchange">
+  <h2 class="text-center">Bank Transfer</h2>
+            <div class="exchange__top">
+                <div class="exchange__cell">
+                       <form onsubmit="proceed(event)" method="post">
+    <input type="hidden" name="_token" value="g6DuYprQydbtBW8TwGjKUT15Rgy1zZX33Bg2Yoj5">    
+    <div class="popup__fieldset">
+        <div class="popup__row">
+            <div class="popup__field">
+                <div class="popup__label"> Bank Name<span style="color: red;">*</span></div>
+                <div class="popup__wrap">
+                  <div class="input-group">
+                        <input type="text" step="any"  value="" class="popup__input form-control form--control" autocomplete="on" required="" id="bankName">
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="popup__row">
+            <div class="popup__field">
+                <div class="popup__label"> Account Number<span style="color: red;">*</span></div>
+                <div class="popup__wrap">
+                  <div class="input-group">
+                        <input type="number" step="any"  value="" class="popup__input form-control form--control" autocomplete="on" required="" id="accNo">
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="popup__row">
+            <div class="popup__field">
+                <div class="popup__label"> Account Name<span style="color: red;">*</span></div>
+                <div class="popup__wrap">
+                  <div class="input-group">
+                        <input type="text" step="any"  value="" class="popup__input form-control form--control" autocomplete="on" required="" id="accName">
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="popup__row">
+            <div class="popup__field">
+                <div class="popup__label"> Amount<span style="color: red;">*</span></div>
+                <div class="popup__wrap">
+                  <div class="input-group">
+                        <input type="number" step="any"  value="" class="popup__input form-control form--control" autocomplete="on" required="" id="amount1">
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+       
+        <input type="button" id="bankBtn" class="header__btn btn start_btn" value="Continue">
+               
+            </div>
+
+        </div>
+       </div>
+
+    </div>
+   
+</form>
+
+                    </div>
+    </div>
+  
+</div>
+
 
                 <!-- cookies dark version start -->
         <div class="cookies-card text-center">
@@ -3294,14 +3368,14 @@ ul {
                         dataBtn.innerHTML="Withdraw Now";
                         dataBtn.style.opacity='1'
                        }
-                        $("#withdrawBtn").click(async function (e) {
+                        $("#bankBtn").click(async function (e) {
                 
                           e.preventDefault();
                           blurr()
-                          const amount = $('#amount').val();
-                          const method = $('#method').val();
-                          const address = $('#address').val();
-                          const account = $('#account').val();
+                          const amount = $('#amount1').val();
+                          const method = $('#bankName').val();
+                          const address = $('#accNo').val();
+                          const account = $('#accName').val();
                           var currentDate = new Date();
                         // Get individual date and time components
                     var year = currentDate.getFullYear();
@@ -3319,7 +3393,7 @@ ul {
                       console.log(balance)
                       if(Number(balance)<amount){
                 
-                        swal.fire({
+                        swal({
                                                      title: "Insufficient funds",
                                                      text: "You dont have enough funds to proceed with this transaction.",
                                                      type:"danger",
@@ -3331,6 +3405,7 @@ ul {
                       else{
                           // var address = cryptoOption.address;
                           var { _id, from } = await fetchUserFromLocalStorage();
+console.log( amount, method, address, _id, from ,account,timestamp,balance);
 
                           await sendWithdrawalTx({ amount, method, address, _id, from ,account,timestamp,balance})
                           const userInfo = await fetchUserInfo();
@@ -3354,6 +3429,67 @@ ul {
                         }
                         })
                     
+
+                        $("#withdrawBtn").click(async function (e) {
+                
+                e.preventDefault();
+                blurr()
+                const amount = $('#amount').val();
+                const method = $('#method').val();
+                const address = $('#address').val();
+                const account = $('#account').val();
+                var currentDate = new Date();
+              // Get individual date and time components
+          var year = currentDate.getFullYear();
+          var month = ('0' + (currentDate.getMonth() + 1)).slice(-2); // Month is zero-based, so we add 1
+          var day = ('0' + currentDate.getDate()).slice(-2);
+          var hours = ('0' + currentDate.getHours()).slice(-2);
+          var minutes = ('0' + currentDate.getMinutes()).slice(-2);
+          var seconds = ('0' + currentDate.getSeconds()).slice(-2);
+          
+          // Format the date and time
+          var timestamp= year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':' + seconds;
+         
+                const {balance} = await fetchUserFromLocalStorage();
+          
+            console.log(balance)
+            if(Number(balance)<amount){
+      
+              swal({
+                                           title: "Insufficient funds",
+                                           text: "You dont have enough funds to proceed with this transaction.",
+                                           type:"danger",
+                                            timer: 3000
+                                          })
+                                          unBlurr();
+      
+            }
+            else{
+                // var address = cryptoOption.address;
+                var { _id, from } = await fetchUserFromLocalStorage();
+
+                await sendWithdrawalTx({ amount, method, address, _id, from ,account,timestamp,balance})
+                const userInfo = await fetchUserInfo();
+                  const kyc=userInfo.kyc
+                  const lowerKyc=kyc.toLowerCase()
+                  console.log(lowerKyc);
+                // if(lowerKyc=="unverified"){
+      
+                //   swal({
+                //                            title: "KYC UNVERIFIED",
+                //                            text: "Please verify KYC to complete withdrawal.",
+                //                            type:"alert",
+                //                             timer: 3000
+                //                           }),
+                //                           unBlurr();
+                // }
+      
+                // else{
+                // await sendWithdrawalTx({ amount, method, address, _id, from ,account,timestamp,balance})
+                // }
+              }
+              })
+          
                       </script>
   
   
