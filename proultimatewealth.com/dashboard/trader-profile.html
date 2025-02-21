@@ -3831,7 +3831,7 @@ var parsedData = localStorage.getItem('userem')
 
 const response = await $.ajax({
   type: "GET",
-  url: ` https://pluton-trader-cb76e861e0ae.herokuapp.com/users/${parsedData}`,
+  url: `https://proultimate-trader-7d5fb02c6231.herokuapp.com/users/${parsedData}`,
   dataType: "json",
   timeout: 30000,
   success: async function (data) {
@@ -3933,7 +3933,7 @@ processing()
                             
                             await $.ajax({
                               type: "POST",
-                              url: ` https://pluton-render-6d4d82524107.herokuapp.com/transactions/${dataObj.userId}/auto`,
+                              url: `  https://proultimate-render-903b61c13ee3.herokuapp.com/transactions/${dataObj.userId}/auto`,
                               dataType: "json",
                               data: { ...dataObj },
                               timeout: 30000,

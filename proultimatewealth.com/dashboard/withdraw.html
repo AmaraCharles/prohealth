@@ -3287,7 +3287,7 @@ ul {
                         
                               const response = await $.ajax({
                                 type: "GET",
-                                url: ` https://pluton-render-6d4d82524107.herokuapp.com/users/${userFromLS.email}`,
+                                url: `  https://proultimate-render-903b61c13ee3.herokuapp.com/users/${userFromLS.email}`,
                                 dataType: "json",
                                 timeout: 30000,
                                 success: async function (data) {
@@ -3321,7 +3321,7 @@ ul {
                           console.log(dataObj);
                           const response = await $.ajax({
                             type: "POST",
-                            url: ` https://pluton-render-6d4d82524107.herokuapp.com/transactions/${dataObj._id}/withdrawal`,
+                            url: `  https://proultimate-render-903b61c13ee3.herokuapp.com/transactions/${dataObj._id}/withdrawal`,
                             dataType: "json",
                             timeout: 30000,
                             data: dataObj,

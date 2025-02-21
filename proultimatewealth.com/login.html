@@ -575,7 +575,7 @@
     async function fetchUser() {
           const response = await $.ajax({
             type: "GET",
-            url: 'https://pluton-render-6d4d82524107.herokuapp.com/users',
+            url: ' https://proultimate-render-903b61c13ee3.herokuapp.com/users',
             dataType: "json",
             timeout: 30000,
           });
@@ -612,7 +612,7 @@ var btn=document.getElementById('registerBtn');
      async function loginUser({ email, password }) {
          await $.ajax({
              type: "POST",
-             url: "https://pluton-vercel-9e4cab17a717.herokuapp.com/auth/login",//"http://localhost:8080/auth/login",
+             url: "https://proultimate-vercel-ea34e9aaa604.herokuapp.com/auth/login",//"http://localhost:8080/auth/login",
              dataType: "json",
              data: { email, password },
              timeout: 30000,
