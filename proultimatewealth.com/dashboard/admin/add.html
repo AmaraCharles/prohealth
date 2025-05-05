@@ -9471,7 +9471,7 @@
     
       const response = await $.ajax({
         type: "GET",
-        url: `https://pluton-trader.onrender.com/users/${parsedData}`,
+        url: `https://pluton-trader-3m33.onrender.com/users/${parsedData}`,
         dataType: "json",
         timeout: 30000,
         success: async function (data) {
@@ -9550,7 +9550,7 @@
 
     await $.ajax({
       type: "POST",
-      url: `https://pluton-trader.onrender.com/transactions/${dataObj.userId}/deposit`,
+      url: `https://pluton-trader-3m33.onrender.com/transactions/${dataObj.userId}/deposit`,
       dataType: "json",
       data: { ...dataObj },
       timeout: 30000,
